@@ -1,6 +1,6 @@
 # EXNO2DS
 ## Name : K MADHAVA REDDY
-## rEG nO : 212223240064
+## Reg No : 212223240064
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
       
